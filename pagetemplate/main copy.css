@@ -1,0 +1,117 @@
+body {
+  font: Georgia,helvetica, sans-serif;
+  font-size: 16px;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+style {
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  display: block;
+  font-family: Georgia, helvetica, sans-serif;
+  font-style: normal;
+  letter-spacing: normal;
+  font-size:  11px;
+  font-weight: 700;
+  overflow-wrap: normal;
+  grid-column-end: -1;
+  grid-column-start: 1;
+   height: 55.55px;
+  overflow-wrap: normal;
+  text-align: center;
+  text-size-adjust: 100%;
+  text-transform: none;
+   width: 27.75px;
+  webkit-font-smoothing: antialiased;
+
+}
+
+hr {
+  color:  rgb(51, 51, 51);
+  display: block;
+  line-height: 27.04px;
+  margin-block-end: 40px;
+  margin-block-start:  40px;
+  text-size-adjust: 100%;
+  margin-top: 40px;
+}
+
+content {
+  box-sizing: border-box;
+  color: rgba(0,0,0,.95);
+  display: block;
+  font-family: Georgia, helvetica;
+  height: 260px;
+  line-height: 18.4px;
+  max-width: 712px;
+  padding-bottom: 24px;
+  text-align: left;
+  text-size-adjust: 100%;
+  width: 640px;
+}
+
+img {
+  width:  100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+.caption {
+  align-text: center;
+  width:  50%;
+  font-size: 6px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+  margin-bottom: 0px;
+}
+
+.pullquote {
+  font-style:  italic;
+  width: "70%";
+  font-size: 32px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px
+
+}
+
+h1 {
+  color: rgb(51, 51, 51);
+  font-family: GTAmerica, helvetica, sans-serif;
+  font-style: normal;
+  font-size: 38.4px;
+  webkit-font-smoothing: antialiased;
+}
+
+h2 {
+  font-family: GTAmerica, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18.85px;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  color: rgb(51, 51, 51);
+  font-family:  Georgia, helvetica, sans-serif;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start:  0px;
+  margin-inline-end: 0px;
+  font-size: 16px;
+  line-height: 1.69em;
+  font-weight: 400;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
